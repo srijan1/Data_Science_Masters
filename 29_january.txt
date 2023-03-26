@@ -1,0 +1,49 @@
+					29 Jan Assigment
+
+Q1)Who developed python programming language?
+A1)Guido van Rossum 
+
+Q2)Which type of programming does python support?
+A2)Object Oriented Programming
+
+Q3)Is Python case sensitive when dealing with identifiers?
+A3)YES, it is
+
+Q4)What is the correct extension of the Python file?
+A4).py
+
+Q5)Is Python code compiled or Interpreted?
+A5)Interpreted
+
+Q6)Name a few blocks of code used to define in Python language?
+A6)def
+
+Q7)State a character used to give single line comments in Python?
+A7)"#" is  used to give single line comments in Python.
+
+Q8) Mention functions which can help us find the version of pythan that we are currently working on?
+A8)python –version , sys.version
+
+Q9)Python supports the creation of anonymous functions a runtime, using a construct called ---
+A9)lambda
+
+Q10)What does pip stand for python?
+A10)Preffered Installer Program for insatlling libraries
+
+Q11)Mention few built-in functions in python?
+A11)input(),print(),sum() etc
+
+Q12)What is the maximum possibile length of an identifier in Python?
+A12)79 characters
+
+Q13)what are the benefits of using Python?
+A13)Simple and easy , interpretable (easy to debug) , dynamically typed.
+
+Q14)How is memory manage in Python?
+A14)Everything is object in Python that is mad of cstruct which has instance attributes that is used by automated garbage collector to free up memory. 
+
+Q15)How to install Python on Windows and set path variables?
+A15)Download Python latest version , install and add python to path while installation.
+
+Q16)Is indentation required in python?
+A16)Yes , it is necessary to guide the interpertor.
